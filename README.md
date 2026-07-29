@@ -18,17 +18,12 @@
 
 <br/>
 
-<table><tr><td valign="top" width="100%">
-<img src="https://github-readme-stats.vercel.app/api?username=SeongMunHeo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td></tr>
-<table>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=devmoon-h)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
 <div align=left>
 	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongMunHeo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 </div>
 
 <!--
